@@ -1,5 +1,7 @@
 # 💫 About Me:
-Undergraduate student majoring in computer science and engineering
+Computer Science & Engineering undergraduate with hands-on experience in building and deploying end-to-end
+AI systems. Proficient in taking AI products from concept to production using Python, FastAPI, LangGraph, and modern cloud infrastructure.
+Passionate about engineering intelligent systems that solve real-world problems at scale.
 
 
 ## 🌐 Socials:
