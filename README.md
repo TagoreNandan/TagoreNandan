@@ -64,7 +64,7 @@ https://www.linkedin.com/in/tagorenandan/
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tagorenandan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=4f46e5&hide_border=true&custom_title=Tagore%20Nandan's%20Contribution%20Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tagorenandan&bg_color=0d1117&color=ff6eb4&line=ff2d9b&point=ffffff&area=true&area_color=ff2d9b&hide_border=true&custom_title=Tagore%20Nandan's%20Contribution%20Graph" />
 </p>
 ---
 
