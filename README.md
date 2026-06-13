@@ -73,4 +73,9 @@ https://www.linkedin.com/in/tagorenandan/
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tagorenandan&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TagoreNandan/TagoreNandan/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
