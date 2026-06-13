@@ -60,6 +60,10 @@ https://www.linkedin.com/in/tagorenandan/
 
 
 
+
+## 📈 Contribution Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TagoreNandan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=4f46e5&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 
