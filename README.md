@@ -45,7 +45,7 @@
 
 
 
-Yo!
+Yo!!
 
 Tagore nandan this side, a computer Science & Engineering undergraduate with hands-on experience in building and deploying end-to-end
 AI systems. Proficient in taking AI products from concept to production using Python, FastAPI, LangGraph, and modern cloud infrastructure.
